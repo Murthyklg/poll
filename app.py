@@ -4,5 +4,4 @@ print("hello darlo")
 a=2
 b=8
 c=a+b
-print(a+b)
 print(c)
